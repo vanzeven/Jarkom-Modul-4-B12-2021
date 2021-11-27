@@ -48,7 +48,7 @@ lalu, di water7, tambahkan juga routing dengan network dan mask 0.0.0.0 dan next
 
 ![image](https://user-images.githubusercontent.com/11045113/143687291-504c96b2-4801-4970-8a09-ce4dcd400743.png)
 
-**Lakukan hal yang sama untuk setiap subnet yang ada (untuk subnet a2, karena ada 2 end client, maka client1 menggunakan ip subnet + 2, dan client2 menggunakan ip subnet + 3)
+**Lakukan hal yang sama untuk setiap subnet yang ada (untuk subnet a2, karena ada 2 end client, maka client1 menggunakan ip subnet + 2, dan client2 menggunakan ip subnet + 3)**
 
 **tes dengan mengirim paket**
 
