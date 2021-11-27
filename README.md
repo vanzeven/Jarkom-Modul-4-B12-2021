@@ -8,19 +8,19 @@ Spesifikasi: harus ada screenshot, cara pengerjaan, kendala
 **Buat topografi**
 ![image](https://user-images.githubusercontent.com/11045113/143685901-8effe04e-67b6-4ac3-b150-16d047d9a951.png)
 
-**Cari subnet-subnet yang ada
+**Cari subnet-subnet yang ada**
 ![image](https://user-images.githubusercontent.com/11045113/143685993-eab465bf-cec8-4d4c-87e4-b183486c01cc.png)
 
 ### VLSM
-**buat tree nya di app.diagrams.net
+**buat tree nya di app.diagrams.net**
 
 ![vlsm drawio](https://user-images.githubusercontent.com/11045113/143686124-0e24ce9d-cda3-4d96-b272-3d8ed40be011.png)
 
-**letakkan di tabel, lalu hitung netmask dan broadcast addressnya
+**letakkan di tabel, lalu hitung netmask dan broadcast addressnya**
 
-**konfigurasikan interface dan routing di CPT
+**konfigurasikan interface dan routing di CPT**
 
-**tes dengan mengirim paket
+**tes dengan mengirim paket**
 
 ![image](https://user-images.githubusercontent.com/11045113/143686461-dec5c004-7245-466f-8825-e0c65d424047.png)
 ![image](https://user-images.githubusercontent.com/11045113/143686462-e5b9d86c-255e-44c6-9a59-39636fbb61ba.png)
